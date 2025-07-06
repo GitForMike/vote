@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://gitformike.github.io/vote
+Host: https://mike.hndblog.com/vote
 
 # Sitemaps
-Sitemap: https://gitformike.github.io/vote/sitemap.xml
+Sitemap: https://mike.hndblog.com/vote/sitemap.xml
